@@ -59,7 +59,7 @@ Create a starter kit that has, what you considered, the three most important ite
 Design and construct a package that contains three variations of the same (or similar) item. You will create a visual identity, design for the container of the items, and the labels/packaging for the items themselves. The design of the items must work as a system, not as three individual designs.
 
 ### Attendance Policy
-Four absenses, regardless of excuse, will be an automatic failure of the class. After the first absence, each class you miss will lower your engagement grade by 25 points unless you let me know you won't be in class before class and make an effort to cover what you missed in class. After the first late arrival, each class you are late to will lower your engagement grade by 10 points unless you let me know you are going to be late before class. Exceptions to this policy are for people actively communicating with me prior to the fourth absence.
+Four absences, regardless of excuse, will be an automatic failure of the class. After the first absence, each class you miss will lower your engagement grade by 25 points unless you let me know you won't be in class before class and make an effort to cover what you missed in class. After the first late arrival, each class you are late to will lower your engagement grade by 10 points unless you let me know you are going to be late before class. Exceptions to this policy are for people actively communicating with me prior to the fourth absence.
 
 ### Engagement
 Your engagement in this class will affect your final grade (and, by extension, the quality of your work) for this course. Your attendance is tied to this grade along with your ability to actively take part in this course in the following ways.
