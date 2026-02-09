@@ -12,68 +12,67 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * Course Overview
 * Packaging Chat
 * Figjam Overview
-* Demo: Craft
-* E1: Question Cube
 
 #### Due Next Class
-* E1: Question Cube
+* Nothing
 
 ---
-<!-- mix -->
+
 ### Week 2
 #### Outline for the Day
-* The MIX orientation
+* Demo: Craft
+* E1: Question Cube
 * Demo: Dielines
-* Demo: Laser Cutter
-* E2: Package For
 
 #### Due Next Class
-* E2: Package For
+* E1: Question Cube
 
 ---
 
-<!-- mix -->
 ### Week 3
 #### Outline for the Day
-* E3: MYOD
 * Demo: Tinkercad
-* Demo: 3D Printer
 * P1: Starter Pack
+* E2: Audience Shift
 
 #### Due Next Class
-* E3: MYOD
+* E2: Audience Shift
 * P1.1: Checkpoint 1
 
 ---
 
 ### Week 4
 #### Outline for the Day
-* E4: Pair of Plants (Part I)
+* E3: Package For
+* Demo: 3D Printer
+* Demo: Laser Cutter
 * P1.1: Individual check ins
 
 #### Due Next Class
-* E4: Pair of Plants (Part I)
+* E3: Package For
 * P1.2: Checkpoint 2
 
 ---
 
 ### Week 5
 #### Outline for the Day
-* E4: Pair of Plants (Part II)
+* E4: MYOD
 * P1.2: Small group check ins
 
 #### Due Next Class
-* E4: Pair of Plants (Part II)
+* E4: MYOD
 * P1.3: Checkpoint 3
 
 ---
 <!-- mix -->
 ### Week 6
 #### Outline for the Day
+* E5: Pair of Plants (Part I)
 * P1.3: Small group critiques
 
 #### Due Next Class
 * P1.4: Checkpoint 4
+* E5: Pair of Plants (Part I)
 
 ---
 
@@ -84,11 +83,13 @@ Spring Break, no class!
 <!-- mix -->
 ### Week 8
 #### Outline for the Day
+* E5: Pair of Plants (Part II)
 * P1.4: Individual check ins
 * P2: Form + Function
 
 #### Due Next Class
 * P1 Final
+* E5: Pair of Plants (Part II)
 
 ---
 
